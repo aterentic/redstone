@@ -1,6 +1,7 @@
 # Redstone
 
-[Redstone i šta je to?](Redstone.md)
+[Redstone i čemu služi?](Redstone.md)
+![]()
 
-![redstone dust](redstone.png)
-
+Redstone
+ 

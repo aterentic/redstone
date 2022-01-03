@@ -1,1 +1,1 @@
-# Redstone i šta je to?
+# Redstone i čemu služi?
