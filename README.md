@@ -15,5 +15,4 @@ Galerija
 
 
 
-
- 
+*Redstone-engleska reč za crvenkamen.
