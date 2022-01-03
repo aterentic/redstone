@@ -1,6 +1,6 @@
 # Redstone
 
-[Redstone, čemu služi i sta je to?](Redstone.md) | [Napajanje redstone-a](Redstone.md ) 
+[Redstone, čemu služi i sta je to?](Redstone.md) | [Napajanje redstone-a](Napajanje.md) 
      
 ![]()
 
