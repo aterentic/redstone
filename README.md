@@ -1,10 +1,11 @@
 # Redstone
 
-[Redstone i čemu služi?](Redstone.md)
+[Redstone i čemu služi?](Redstone.md) 
 ![]()
 
 Redstone
   
 Korišćenje
 
-Kada je redstone povezan na izvor energije (za više informacija pogledajte stranu Napajanje redstone-a)  pokreće klipove,bacače...(za više informacija pogledajte stranu Redstone mašine)
+Kada je redstone povezan na izvor energije (za više informacija pogledajte stranu Napajanje redstone-a)  pokreće klipove,bacače...(za više informacija pogledajte stranu Napajanje redstone mašina.).Redstone se takođe koristi za mnoge mašine.(za više informacija pogledajte stranu Redstone mašine.) 
+Kada se postavi na blok, redstone nalikuje kablu, a takođe se i koristi kao kabl kada je na bloku.
