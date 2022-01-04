@@ -3,8 +3,6 @@
 [Redstone-čemu služi i sta je to?](Redstone.md) | [Napajanje redstone-a](Napajanje.md) e
      
 ![]()
-
-Redstone
   
 Korišćenje
 
