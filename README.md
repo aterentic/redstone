@@ -1,5 +1,3 @@
-
-
 [Redstone-čemu služi i sta je to?](Redstone.md) | [Napajanje redstone-a](Napajanje.md) [Napajanje redstone mašina] (masine.md)
      
 ![]()
@@ -13,4 +11,4 @@ Galerija
 
 
 
-*Redstone-engleska reč za crvenkamen.
+*Redstone-engleska reč za crvenkamen.Čita se redstoun.
