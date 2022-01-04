@@ -1,3 +1,3 @@
 #Napajanje redstone-a
 
-Izvor energije:ručka,dugme,blok redstone-a,posmatrač, potisna ploča i redstone baklja.Kada je redstone na bloku povezan sa blokom redstone-a ili bilo kojim aktivnim izvorom energije počeće da svetli crveno.Izvor energije može se aktivirati priitis
+Izvor energije:ručka,dugme,blok redstone-a,posmatrač, potisna ploča i redstone baklja.Kada je redstone na bloku povezan sa blokom redstone-a ili bilo kojim aktivnim izvorom energije počeće da svetli crveno.Izvor energije može se aktivirati priitiskom na desno dugme na mišu(ručka i dugme.), stajanjem na njega(potisna ploča), ili stavljanjem ili uništavanjem bloka ispred (može se pokrenuti i aktiviranjem notiskog bloka ispred.)(posmatrač).Redstone baklja i blok redstone-a su uvek pokrenuti.(redstone baklja se gasi kada je blok na kome stoji aktivan.(povezan na aktivan izvor energije))
