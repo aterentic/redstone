@@ -4,4 +4,4 @@ Redstone je deo mnogih recepata koji su neophodni za pravljenje mnogih mašina.O
 
  Posmatrač
 
-![posmatrač](https://static.wikia.nocookie.net/minecraft_el_gamepedia/images/4/44/InvSprite.png/revision/latest?cb=20190914154847?version=1)
+![posmatrač](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.apexminecrafthosting.com%2Fimg%2Fuploads%2F2020%2F10%2F22205341%2Fobserver-crafting-recipe.png&f=1&nofb=1)
