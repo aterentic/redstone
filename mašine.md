@@ -4,4 +4,4 @@ Redstone je deo mnogih recepata koji su neophodni za pravljenje mnogih mašina.O
 
  Posmatrač
 
-![posmatrač](https://static.wikia.nocookie.net/minecraft_el_gamepedia/images/b/b5/Site-background-light/revision/latest?cb=20210716153950)
+![posmatrač](https://minecraft.fandom.com/media/8/86/Grid_layout_Arrow_%28small%29.png)
