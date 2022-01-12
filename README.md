@@ -1,6 +1,7 @@
 ![redstone dust](http://images3.wikia.nocookie.net/__cb20110629043454/minecraft/images/e/eb/Redstonedust.png)
 
-[Redstone-čemu služi, sta je to?](Redstone.md) | [Napajanje redstone-a](Napajanje.md) | [Redstone mašine](mašine.md)
+[(http://images3.wikia.nocookie.net/__cb20110629043454/minecraft/images/e/eb/Redstonedust.png)
+](Redstone.md) | [Napajanje redstone-a](Napajanje.md) | [Redstone mašine](mašine.md)
 
 
      
