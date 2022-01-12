@@ -1,12 +1,13 @@
 ![redstone dust](http://images3.wikia.nocookie.net/__cb20110629043454/minecraft/images/e/eb/Redstonedust.png)
 
-[(http://images3.wikia.nocookie.net/__cb20110629043454/minecraft/images/e/eb/Redstonedust.png)
-](Redstone.md) | [Napajanje redstone-a](Napajanje.md) | [Redstone mašine](mašine.md)
+[![redstone dust](http://images3.wikia.nocookie.net/__cb20110629043454/minecraft/images/e/eb/Redstonedust.png)](Redstone.md) | [Napajanje redstone-a](Napajanje.md) | [Redstone mašine](mašine.md)
 
 
      
 ![]()
   
+
+
 Korišćenje
 
 Kada je redstone povezan na izvor energije (za više informacija pogledajte stranu Napajanje redstone-a)  pokreće klipove,bacače...(za više informacija pogledajte stranu Napajanje redstone mašina.).Redstone se takođe koristi za mnoge mašine.(za više informacija pogledajte stranu Redstone mašine.) 
