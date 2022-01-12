@@ -12,4 +12,8 @@ Redstone pojačivač
 
 Redstone komparator
 
-![redstone komparator](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.windowscentral.com%2Fsites%2Fwpcentral.com%2Ffiles%2Fstyles%2Fmedium%2Fpublic%2Ffield%2Fimage%2F2016%2F09%2Fmc-crafting-redstone-comparator-01.jpg%3Fitok%3DwIUvlmli&f=1&nofb=1)
+![redstone komparator](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.windowscentral.com%2Fsites%2Fwpcentral.com%2Ffiles%2Fstyles%2Fmedium%2Fpublic%2Ffield%2Fimage%2F2016%2F09%2Fmc-crafting-redstone-comparator-01.jpg%3Fitok%3DwIUvlmli&f=1&nofb=1)  
+
+Klip
+
+[klip](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.windowscentral.com%2Fsites%2Fwpcentral.com%2Ffiles%2Fstyles%2Fmedium%2Fpublic%2Ffield%2Fimage%2F2016%2F10%2Fmc-piston-recipe-01.jpg%3Fitok%3DHJLW-6jm&f=1&nofb=1)
