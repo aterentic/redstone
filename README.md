@@ -1,6 +1,6 @@
 ![redstone dust](http://images3.wikia.nocookie.net/__cb20110629043454/minecraft/images/e/eb/Redstonedust.png)
 
-[![redstone dust](http://images3.wikia.nocookie.net/__cb20110629043454/minecraft/images/e/eb/Redstonedust.png)](/Redstone.html) | [Napajanje redstone-a](Napajanje.md) | [Redstone mašine](mašine.md)
+[![redstone dust](http://images3.wikia.nocookie.net/__cb20110629043454/minecraft/images/e/eb/Redstonedust.png)](/redstone/Redstone.html) | [Napajanje redstone-a](Napajanje.md) | [Redstone mašine](mašine.md)
 
 
      
